@@ -2,6 +2,7 @@
 An unofficial documize docker image
 
 ---
+[![Easypanel](https://raw.githubusercontent.com/Supernova3339/Supernova3339/main/easypanel.png)](https://easypanel.io/docs/templates/documize)
 
 | ENV | Description | Required |
 | ------ | ------ | ------ |
